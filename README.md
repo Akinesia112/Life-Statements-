@@ -1,7 +1,7 @@
 # Life-Statements
 My Life Statements.
 
-- If life is an adventure, then why are you here? What are you doing here?
+- **If life is an adventure, then why are you here? What are you doing here?**
 - Go where you want to go. Traveling the world and starting a company might seem cool, but to you, it feels like burning passion while burying capital (including your life).
 - Learn how your idols think—not just their accomplishments.
 - Don’t tattoo your company’s brand on your back. That’s not your name.
